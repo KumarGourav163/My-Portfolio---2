@@ -1,5 +1,8 @@
 🌟 Personal Portfolio Website 🌟
+<br>
+<br>
 Welcome to my personal portfolio website! 🚀 This site is designed to showcase my academic and professional journey, highlighting the following key areas:
+<br>
 <br>
 📚 Studies and Universities: Detailed information about my educational background, including degrees 🎓, institutions 🏫, courses 📖, and notable achievements 🏆.
 <br>
